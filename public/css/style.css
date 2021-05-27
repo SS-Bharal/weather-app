@@ -55,7 +55,11 @@ body {
 }
 
 .navbar-toggler {
-    background-color: #718093;
+    background-color: #136adb;
+}
+
+.navbar-toggler-icon {
+    width: auto;
 }
 
 .fa-snowflake {
